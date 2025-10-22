@@ -3,4 +3,4 @@ Thank you for interesting about out project. elow u can find how u can change sm
 
 ##Send erorrs and bugs
 - If u found error or bug, create **Issue** from ticket and describ him
-- If u want add new function, create **Issue* form ticket 'encancment' and write what u wanna add
+- If u want add new function, create **Issue** form ticket 'encancment' and write what u wanna add
