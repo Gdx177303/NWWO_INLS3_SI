@@ -1,5 +1,5 @@
 # ZOO online
-**ZOO online** to prosta strona internetowa present wirtualne zoo
+**ZOO online** to prosta strona internetowa present wirtualne zoo, dostepna na [GitHb Pages](https://gdx177303.github.io/NWWO_INLS3_SI/)
 
 ## Spis tresci
 - [ Opis projektu](#opis-projektu)
